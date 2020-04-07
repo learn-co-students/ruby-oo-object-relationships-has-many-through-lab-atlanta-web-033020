@@ -55,7 +55,7 @@ madonna = Artist.new("Madonna")
 - The `Genre` class needs an instance method, `#artists`, that iterates over the
   genre's collection of songs and collects the artist that owns each song.
 
-Now let's move on to our `Doctor`/`Appointment`/`Patient` domain model.
+Now let's move on to our `Doctor`/`Appointment`/`Patient` domain models.
 
 ```ruby
 pop = Genre.new("pop")
